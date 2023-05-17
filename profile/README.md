@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://peppaai.com">
-    <img width="200" src="https://i.imgur.com/hj20gYV.png">
+    <img width="100" src="https://i.imgur.com/hj20gYV.png">
   </a>
 </p>
 
 <h1 align="center">Peppa AI</h1>
 
-![](https://i.imgur.com/XXRMFnh.png)
+![align="center"](https://i.imgur.com/XXRMFnh.png)
