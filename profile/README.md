@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://peppaai.com">
-    <img width="1280" src="[https://i.imgur.com/hj20gYV.png](https://i.imgur.com/XXRMFnh.png)">
+    <img width="720" src="[https://i.imgur.com/hj20gYV.png](https://i.imgur.com/XXRMFnh.png)">
   </a>
 </p>
